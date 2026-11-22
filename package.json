@@ -1,0 +1,15 @@
+{
+  "name": "blockchain-aula1-alencar-morete",
+  "version": "1.0.0",
+  "description": "Registro de entregas à prova de adulteração em Node.js utilizando conceitos de Blockchain.",
+  "main": "principal.js",
+  "scripts": {
+    "start": "node principal.js"
+  },
+  "keywords": [
+    "blockchain",
+    "nodejs",
+    "sha256"
+  ],
+  "license": "ISC"
+}
